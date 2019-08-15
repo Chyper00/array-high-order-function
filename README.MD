@@ -1,1 +1,1 @@
-## Array : high order fucnions
+## Array : high order function
